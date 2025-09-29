@@ -25,4 +25,4 @@ This is a criptografy that I created for fun and I'll use it for an enigma, that
 est stultus septimus pes sanus rivus hic postquam octo aliquis igitur aliquid ager idem sextus virtus aliquis tamen sanguis nec quattuor ne celer easdem libertus unde unde unde domesticus cuius cui quin
 ```
 KEY: `OXPU6JRO4X`
-the `latin.bin` is on the repository
+The `latin.bin` is on the repository
